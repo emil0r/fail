@@ -1,0 +1,4 @@
+= Crux example project
+
+Ran into some problems when trying out crux. Here's an example project
+showcasing the problem.
